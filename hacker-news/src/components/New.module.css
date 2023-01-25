@@ -1,0 +1,16 @@
+.line{
+  width: 99%;
+  height: 2px;
+  background-color: rgb(195, 195, 195);
+  box-shadow: 2px 2px 10px 1px rgb(176, 175, 175);
+  margin-top: 5px;
+}
+.container{
+  margin-bottom: .5em;
+}
+.container *{
+  margin: 5px;
+}
+.container a{
+  text-decoration: none;
+}

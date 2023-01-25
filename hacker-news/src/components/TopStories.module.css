@@ -1,0 +1,29 @@
+.divStyle {
+  margin-bottom: 30px;
+}
+.pagination{
+  
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+
+}
+.pagination a{
+  /* width: 10px;
+  height: 10px; */
+  padding: 7px;
+  border: 1px solid rgb(9, 70, 156);
+  border-radius: 7px;
+  cursor: pointer;
+
+}
+.pagination a:hover{
+  background-color: rgb(20, 156, 206);
+  color: white;
+  border: none;
+}
+.paginate{
+  margin-bottom: 50px;
+}
